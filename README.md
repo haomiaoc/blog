@@ -1,1 +1,3 @@
-# My Personal Site
+```c
+printf("Hello, world!\n");
+```
